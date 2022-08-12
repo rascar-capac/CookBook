@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">CookBook</string>
+    <string name="menu">Menu</string>
+    <string name="search_label">Rechercher</string>
+    <string name="filter_label">Filtrer</string>
+    <string name="grid_display_label">Afficher en grille</string>
+    <string name="new_recipe_label">Nouvelle recette</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="search_placeholder">Couscous, carottes, …</string>
+    <string name="recipes_label">Recettes</string>
+    <string name="stock_label">Stock</string>
+    <string name="groceries_label">Courses</string>
 </resources>
